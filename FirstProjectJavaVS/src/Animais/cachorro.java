@@ -7,6 +7,6 @@ public class cachorro {
     public double weight;
 
     public void latir() {
-        System.out.println("AU AU NIGGA");
+        System.out.println("AU AU");
     }
 }
